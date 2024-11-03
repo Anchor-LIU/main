@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/86183/Desktop/learnCPlus/main/cmake-build-debug/testout.cpp
+testout.h
+C:/Users/86183/Desktop/learnCPlus/main/cmake-build-debug/testout.h
+
+C:/Users/86183/Desktop/learnCPlus/main/cmake-build-debug/testout.h
+
+C:/Users/86183/Desktop/learnCPlus/main/main.cpp
+iostream
+-
+supprt.h
+C:/Users/86183/Desktop/learnCPlus/main/supprt.h
+
+C:/Users/86183/Desktop/learnCPlus/main/supprt.cpp
+supprt.h
+C:/Users/86183/Desktop/learnCPlus/main/supprt.h
+iostream
+-
+
+C:/Users/86183/Desktop/learnCPlus/main/supprt.h
+
