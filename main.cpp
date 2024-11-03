@@ -40,7 +40,7 @@ namespace Jack{
 //double fetch = 123123;
 double fetch;
 void A(){
-    fetch = 0.3;
+    fetch = 0.1;
 
 }
 
